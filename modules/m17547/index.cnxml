@@ -1,0 +1,86 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Chương trình vẽ hình_Paint</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>0e576a23-2d06-4f51-9da5-91d71f0640d5</md:uuid>
+</metadata>
+  <content>
+    <para id="id10489994">CHƯƠNG TRÌNH VẼ HÌNH: PAINT</para>
+    <list list-type="enumerated" id="id10489999">
+      <item>Khởi động:</item>
+    </list>
+    <para id="id10490009">Nhắp Start-&gt;Programs-&gt;Accessories-&gt;Paint</para>
+    <para id="id10822060">Cửa sổ chương trình Paint:</para>
+    <figure id="id10822068">
+      <media id="idp2289168" alt=""><image src="../../media/graphics1-4f88.png" mime-type="image/png" height="426" width="579"/></media>
+    </figure>
+    <list list-type="enumerated" id="id10818922">
+      <item>Các bước vẽ hình:</item>
+    </list>
+    <para id="id10818932">B1: Chọn độ dày nét kẻ bằng cách nhắp <figure id="id11124038"><media id="idp1727264" alt=""><image src="../../media/graphics2-ec83.png" mime-type="image/png" height="26" width="28"/></media></figure> , rồi chọn: <figure id="id10791486"><media id="idm8296928" alt=""><image src="../../media/graphics3-5ed1.png" mime-type="image/png" height="53" width="36"/></media></figure></para>
+    <para id="id11128217">B2: Nhắp chuột vào hộp công cụ để chọn công cụ vẽ</para>
+    <para id="id11128224">B3: Nhắp chuột vào hộp màu để chọn màu vẽ</para>
+    <para id="id10794117">B4: Kéo chuột trong vùng vẽ để vẽ hình theo ý muốn</para>
+    <para id="id10794124">III. Sử dụng các công cụ vẽ </para>
+    <para id="id10794129">* <figure id="id10794140"><media id="idp1601824" alt=""><image src="../../media/graphics4-8ca4.png" mime-type="image/png" height="27" width="26"/></media></figure> Free-Form Select: Khoanh vùng đối tượng tự do </para>
+    <para id="id10998505">* <figure id="id10998516"><media id="idp1174400" alt=""><image src="../../media/graphics5-39eb.png" mime-type="image/png" height="26" width="25"/></media></figure> Select: Khoanh vùng đối tượng theo hình tứ giác</para>
+    <para id="id10999701">* <figure id="id11131778"><media id="idm3052432" alt=""><image src="../../media/graphics6-367e.png" mime-type="image/png" height="24" width="23"/></media></figure> Eraser/Eraser Color: Tẩy xóa</para>
+    <para id="id11007588">* <figure id="id11007599"><media id="idp4737392" alt=""><image src="../../media/graphics7-22fe.png" mime-type="image/png" height="27" width="26"/></media></figure>Fill With Color: Tô màu trong đường bao khép kín</para>
+    <para id="id10818776">*<figure id="id10822835"><media id="idm8227056" alt=""><image src="../../media/graphics8-443d.png" mime-type="image/png" height="26" width="27"/></media></figure>Pick Color: Lấy mẫu màu trên hình vẽ</para>
+    <para id="id11122285">* <figure id="id11122295"><media id="idm9285360" alt=""><image src="../../media/graphics9-82a6.png" mime-type="image/png" height="26" width="29"/></media></figure> Pencil: Bút chì để vẽ tự do</para>
+    <para id="id11129027">*<figure id="id11129038"><media id="idp2213664" alt=""><image src="../../media/graphics10-518c.png" mime-type="image/png" height="29" width="26"/></media></figure> Brush: Bút lông để vẽ, có thể tuỳ chọn nét.</para>
+    <para id="id10998472">* <figure id="id10998481"><media id="idp3110800" alt=""><image src="../../media/graphics11-a5e8.png" mime-type="image/png" height="25" width="24"/></media></figure> Airbrush: Bình xịt màu</para>
+    <para id="id11128788">* <figure id="id11128798"><media id="idp1727856" alt=""><image src="../../media/graphics12-858c.png" mime-type="image/png" height="27" width="26"/></media></figure> Text: vẽ chữ:</para>
+    <para id="id10818736"> B1: Vẽ khung chứa chữ</para>
+    <para id="id10818742"> B2: Chỉnh Font chữ, cỡ chữ. (Nếu không thấy thanh công cụ thì mở menu View/ Text Toolbar)</para>
+    <para id="id10818751"> B3: Gõ nội dung</para>
+    <para id="id11005417"> B4: Chỉnh kích thước, vị trí khung chữ</para>
+    <para id="id11005424"> B5: nhắp chuột ra ngoài khung để kết thúc bước vẽ chữ.</para>
+    <para id="id11005432">*<figure id="id11005442"><media id="idp3805104" alt=""><image src="../../media/graphics13-738e.png" mime-type="image/png" height="32" width="31"/></media></figure> Line: Vẽ đường thẳng</para>
+    <para id="id10843446">*<figure id="id10791548"><media id="idp4422288" alt=""><image src="../../media/graphics14-1710.png" mime-type="image/png" height="26" width="26"/></media></figure> Curve: Vẽ đường cong:</para>
+    <para id="id11125254"> B1: Kéo chuột vẽ đoạn thẳng</para>
+    <para id="id11125260"> B2: Đặt chuột tại vị trí uốn cong lần thứ nhất, kéo chuột</para>
+    <para id="id11125268"> B3: Đặt chuột tại vị trí uốn cong lần thứ hai, kéo chuột</para>
+    <para id="id11125276">*<figure id="id11024764"><media id="idp10886880" alt=""><image src="../../media/graphics15-a13c.png" mime-type="image/png" height="20" width="25"/></media></figure> Rectangle: Vẽ hình chữ nhật, giữ Shift và kéo chuột vẽ hình vuông </para>
+    <para id="id11125147">* <figure id="id11125157"><media id="idm814384" alt=""><image src="../../media/graphics16-2d4a.png" mime-type="image/png" height="23" width="24"/></media></figure> Polygon: Vẽ hình đa giác:</para>
+    <para id="id10815228"> B1: Kéo chuột vẽ cạnh đầu tiên của đa giác</para>
+    <para id="id10815238"> B2: Nhắp chuột tại các đỉnh kế tiếp</para>
+    <para id="id10815245"> B3: Ở đỉnh cuối cùng của đa giác, phải nhắp đúp</para>
+    <para id="id10787940">* <figure id="id10787950"><media id="idp8384080" alt=""><image src="../../media/graphics17-834b.png" mime-type="image/png" height="28" width="26"/></media></figure> Ellipes: Vẽ hình elip, giữ Shift và kéo chuột vẽ hình tròn</para>
+    <para id="id10981738">* <figure id="id10981748"><media id="idp6894960" alt=""><image src="../../media/graphics18.png" mime-type="image/png" height="27" width="28"/></media></figure> Rounded Rectangle: Vẽ hình chữ nhật (hoặc hình vuông) có bốn góc tròn</para>
+    <para id="id10815602">IV. Mẫu cắt:</para>
+    <para id="id10815607">1. Tạo mẫu cắt:</para>
+    <list list-type="bulleted" id="id10815614">
+      <item>Chọn công cụ Select <figure id="id10789627"><media id="idm8102736" alt=""><image src="../../media/graphics19.png" mime-type="image/png" height="26" width="25"/></media></figure></item>
+    </list>
+    <list list-type="bulleted" id="id10789651">
+      <item>Kéo chuột bao quanh hình vẽ, phần diện tích trong đường bao gọi là mẫu cắt</item>
+    </list>
+    <para id="id10818675">2. Di chuyển/ Sao chép mẫu cắt:</para>
+    <para id="id10818683">Đặt con trỏ bên trong mẫu cắt, khi con trỏ có dạng thì kéo chuột đề di chuyển mẫu cắt. Giữ phím Ctrl và kéo chuột để sao chép. </para>
+    <para id="id10983687">3. Lật và xoay mẫu cắt:</para>
+    <list list-type="bulleted" id="id10983692">
+      <item>Nhắp menu Image/ Flip/ Rotate</item>
+      <item>Chọn:</item>
+      <item>Flip Horizontal: lật mẫu cắt theo chiều ngang</item>
+      <item>Flip Vertacal: lật mẫu cắt theo chiều dọc</item>
+      <item>Rotate by Angle: xoay mẫu cắt </item>
+    </list>
+    <list list-type="enumerated" id="id10829092">
+      <item>Làm nghiêng mẫu cắt:</item>
+    </list>
+    <list list-type="bulleted" id="id10829101">
+      <item>Nhắp menu Image/ Stretch/Skew…</item>
+      <item>Trong khung Skew:</item>
+    </list>
+    <para id="id10829116">Horizontal: chọn (gõ vào) độ nghiêng mẫu cắt theo chiều dọc</para>
+    <para id="id10829123">Vertical: chọn (gõ vào) độ nghiêng mẫu cắt theo chiều ngang</para>
+    <list list-type="enumerated" id="id10829130">
+      <item>Lưu mẫu cắt vào đĩa:</item>
+    </list>
+    <list list-type="bulleted" id="id10829139">
+      <item>Nhắp Edit/ Copy to</item>
+      <item>Save in: chọn ổ đĩa để lưu mẫu cắt.</item>
+      <item>File name: đặt tên tập tin</item>
+      <item>Save as Type: chọn 16 color Bitmap -&gt; nhắp Save.</item>
+    </list>
+  </content>
+</document>

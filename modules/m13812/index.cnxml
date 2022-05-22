@@ -1,0 +1,266 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+<title>MS Windows</title>
+<metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>22c4b439-3f3f-4353-95cc-2bfb21c423d4</md:uuid>
+</metadata>
+<content>
+<para id="id9293062">Chương I: Mở đầu</para>
+<section id="id8471718">
+<title>Bước đầu làm việc với máy tính</title>
+<section id="id8792422">
+<title>Khởi động máy tính:</title>
+<para id="id9862441">Cắm điện vào nguồn. Ta ấn nút có chú thích là
+Power (hoặc có hình vẽ: ). Đợi cho máy khởi động bao giờ hiện nên
+màn hình đòi hỏi mật khẩu người dùng, ta cung cấp mật khẩu cho máy.
+Máy hiện lên màn hình desktop với con chuột có hình dưới đây là đã
+khởi động xong. Ta có thể bắt đầu làm việc với hệ điều hành Windows
+2000 Professional.</para>
+<figure id="id5037371">
+<media id="idm1355488" alt=""><image src="../../media/Graphic1.png" mime-type="image/png"/></media>
+</figure>
+</section>
+<section id="id9997105">
+<title>Tắt máy tính đúng cách:</title>
+<list list-type="enumerated" id="id8260678">
+<item>Vào Start ở thanh TaskBar</item>
+</list>
+<para id="id9391038">
+<!--Sorry, this media type is not supported.-->
+</para>
+<list list-type="enumerated" id="id8237726">
+<item>Chọn Shutdown…</item>
+</list>
+<para id="id7683365">
+<!--Sorry, this media type is not supported.-->
+</para>
+<para id="id4191165">3.Chọn OK</para>
+<para id="id7552811">
+<!--Sorry, this media type is not supported.-->
+</para>
+<para id="id5114522">Chú ý: Nếu ta không tắt máy đúng cách, lần
+khởi động sau máy sẽ tự động Scandisk lại các ổ cứng cho chúng
+ta.</para>
+</section>
+<section id="id5498622">
+<title>Khởi động lại máy tính:</title>
+<para id="id8329160">Có 3 cách để khởi động lại máy tính:</para>
+<para id="id5243855">Cách 1: Ấn đồng thời tổ hợp ba phím: Ctrl+
+Alt+ Delete.</para>
+<para id="id5366917">Cách 2: Ấn nút Reset trên thân máy.</para>
+<para id="id6181427">Cách 1 và 2 được gọi là “Khởi động
+nóng”.</para>
+<para id="id4949481">Cách 3: Ấn nút Start -&gt; Shutdown -&gt;
+Restart -&gt; OK. Cách này được gọi là khởi động lạnh.</para>
+</section>
+<section id="id9669057">
+<title>Các thông tin hệ thống</title>
+<para id="id9982322">Khi làm việc với một máy tính thì ta nên biết
+các thông tin cơ bản về hệ thống máy tính cũng như các thành phần
+của nó.</para>
+<para id="id7429394">Mô hình máy tính PC:</para>
+<para id="id5860426">PC là chữ viết tắt của Personal Computer- máy
+tính cá nhân, PC cũng còn được gọi là Micro Computer- máy vi tính.
+Mô hình PC do IBM thiết kế, ra đời năm 1980. Mặc dù ngày nay có
+nhiều hãng khác nhau sản xuất máy vi tính, nhưng mô hình kiến trúc
+vẫn là mô hình PC.</para>
+<para id="id3786958">Các thành phần của hệ thống máy tính:</para>
+<para id="id3895223">Mỗi PC đều có các thành phần chính sau
+đây:</para>
+<para id="id5620852">Hộp máy chính (Case): chứa các thiết bị chính
+yếu và quan trọng của máy, bao gồm: bảng mạch chính (Mainboard), bộ
+vi xử lý trung tâm (CPU), bộ nhớ (Memory) để lưu trữ các kết quả
+trung gian trong quá trình xử lý dữ liệu. Ngoài ra, trong hộp máy
+chính cũng là nơi lưu giữ các thiết bị khác như: bảng âm thanh
+(sound card), bảng nối mạng (network card), ổ lưu trữ: ổ cứng
+(HDD), ổ mềm (FDD), ổ đĩa (CD)…Hộp máy chính chứa các thiết bị
+chính của máy, quyết định các tính năng kỹ thuật của máy nên người
+sử dụng cần nắm rõ các thông tin kỹ thuật của chúng.</para>
+<para id="id7154469">Các thiết bị vào/ ra: như bàn phím (Keyboard)
+được xem là thiết bị đầu vào (input) chuẩn, là công cụ để người
+dùng thực hiện các thao tác với máy và nạp dữ liệu vào. Con chuột
+(Mouse) cũng là thiết bị vào khác, hỗ trợ các thao tác đầu vào. Màn
+hình (Monitor) được xem là thiết bị đầu ra (output) chuẩn, hiển thị
+các kết quả xử lý dữ liệu và các thông tin về trạng thái hoạt động
+của máy.</para>
+<para id="id4132912">Xem các thông tin về hệ thống: chính là xem
+trong hộp máy chính cũng như các thiết bị vào ra của ta có những gì
+và thuộc loại gì.</para>
+<para id="id5675949">Cách xem:</para>
+<list list-type="enumerated" id="id3220223">
+<item>Kích chuột phải tại My Computer</item>
+<item>Chọn thẻ Properties</item>
+</list>
+<para id="id6684469">
+<!--Sorry, this media type is not supported.-->
+</para>
+<list list-type="enumerated" id="id9816112">
+<item>Chọn thẻ General:</item>
+</list>
+<para id="id9662406">
+<!--Sorry, this media type is not supported.-->
+</para>
+<para id="id6959750">Nhìn hình ta thấy: Máy này được cài đặt hệ
+điều hành: Microsoft Windows 2000, với dung lượng của bộ nhớ Ram
+là: 256 MB Ram (=261, 684 KB Ram).</para>
+<para id="id5532658">Một cách khác để xem một cách đầy đủ
+hơn:</para>
+<list list-type="enumerated" id="id3379437">
+<item>Kích chuột phải tại nút Start</item>
+<item>Kích chuột vào nút Program</item>
+<item>Kích chuột vào nút Accessories</item>
+<item>Chọn System Tool</item>
+<item>Chọn System Information</item>
+</list>
+<para id="id7832707">
+<!--Sorry, this media type is not supported.-->
+</para>
+<para id="id3324803">Ta có thể xem được nhãn các thiết bị của ta từ
+System Summary: chẳng hạn như: System Mode: Deskpro EN, hay
+Processor là tốc độ 350 Mhz…</para>
+</section>
+<section id="id6174379">
+<title>Xem cấu hình máy tính</title>
+<para id="id9801980">Ta có thể kiểm tra xem máy tính của mình đang
+chạy với hệ thống ngày giờ gì, loa của ta có âm lượng ra sao, cũng
+như các thay đổi của màn hình nền.</para>
+<para id="id10010885">-Xem hệ thống ngày giờ: ta nhấn chuột vào vị
+trí ngày giờ góc dưới cùng bên phải của màn hình 
+<!--Sorry, this media type is not supported.-->. Kích đúp vào vị
+trí đó. Ta xem được ngày tháng và giờ. P.M: là viết tắt của post
+meridiem: nghĩa là buổi chiều; A.M: là viết tắt của: ante meridiem:
+nghĩa là buổi sáng. Muốn chuyển giờ của vùng, ví dụ: không chọn
+vùng Bangkok, Hanoi, Jakarta; ta chọn vùng (GMT): GreenWeek Mean
+Time: Dublin, Edinburgh, Lisbon, London</para>
+<list list-type="enumerated" id="id9721128">
+<item>Chọn thẻ Time Zone</item>
+<item>Chọn (GMT): GreenWeek Mean Time: Dublin, Edinburgh, Lisbon,
+London</item>
+</list>
+<para id="id9590740">
+<!--Sorry, this media type is not supported.-->
+</para>
+<para id="id9784761">-Xem hệ thống loa ta kích đúp chuột vào biểu
+tượng loa ở góc dưới bên phải màn hình 
+<!--Sorry, this media type is not supported.-->. Ta sẽ được một
+bảng các thuộc tính như hình dưới đây:</para>
+<para id="id9551206">
+<!--Sorry, this media type is not supported.-->
+</para>
+<para id="id7608033">Ta có thể để âm thanh to nhỏ tuỳ thích hoặc mở
+rộng thêm các thuộc tính khác nhờ các thẻ Properties và thẻ
+Advanced.</para>
+<para id="id4930524">-Các lựa chọn hiển thị màn hình: ta có thể
+thay đổi font chữ hoặc màu thể hiện ở màn hình hay có thể đặt một
+ảnh screen saver cho màn hình khi ta đi vắng trong ít phút.</para>
+<para id="id8312268">1.Chọn chuột phải ở ngoài màn hình:</para>
+<para id="id4930533">2.Chọn thẻ Properties</para>
+<para id="id7305529">Ta thấy xuất hiện màn hình như ở dưới
+đây:</para>
+<para id="id9891639">
+<!--Sorry, this media type is not supported.-->
+</para>
+<para id="id9292166">Thẻ Background chính là thẻ để hiển thị màn
+hình nền, ta chọn một background picture trong các lựa chọn ở dưới
+hoặc có thể lựa chọn từ Browse. Trong ô Picture Display có thể
+chọn: Center: hình ảnh hiện thị giữa màn hình. Tile: toàn bộ màn
+hình (giữ nguyên kích thước). Stretch: căng duỗi hình vẽ ra.</para>
+<para id="id9292171">Thẻ Screen Saver: ta có thể chọn một bảo vệ
+màn hình bất kỳ nào do Windows có sẵn hay do ta tự tạo ra với thời
+gian đợi ở ô: Wait.</para>
+<para id="id6189553"/>
+<para id="id6189558">
+<!--Sorry, this media type is not supported.-->
+</para>
+<para id="id4235658">Thẻ Appearance cho phép ta chọn font chữ cũng
+như màu sắc xuất hiện trên màn hình desktop. Ta có thể lựa chọn các
+khả năng từ Scheme, và thẻ Color:</para>
+<para id="id8365788">
+<!--Sorry, this media type is not supported.-->
+</para>
+<para id="id5813586">Thẻ Web tức là cho phép ta đưa ra màn hình làm
+ảnh nền một trang Web yêu thích.</para>
+<para id="id5102157">Thẻ Effects cho ta làm việc cũng như thay đổi
+Icon của các phần chính của Windows như: My Computer, My Document.
+Tacó thể lựa chọn ở thẻ Visual Efects, hay thẻ Change Icon…</para>
+<para id="id5895090">
+<!--Sorry, this media type is not supported.-->
+</para>
+<para id="id9985913">Thẻ Setting chính là thẻ cho phép ta cài đặt
+độ phân giải màu cho màn hình, và độ thật màu của nó. Điều này sẽ
+ảnh hưởng tới màu sắc cũng như độ nét của màn hình.</para>
+<para id="id8620340">Trong phần Screen Area ta kéo rê chuột sẽ nhận
+được các độ phân giải khác nhau: 640 by 480 pixel, 800 by 600
+pixels, 1024 by 768 pixel, 1152 by 864 pixel (thường ta đặt chế độ
+phân giải là 800 by 600 pixels).</para>
+<para id="id4514331">Trong ô Color ta có thể chọn chế màu: 256 màu,
+hay 16 bit, 24 bit, 32 bit màu.</para>
+<para id="id9985922">
+<!--Sorry, this media type is not supported.-->
+</para>
+</section>
+<section id="id4793774">
+<title>Định dạng một đĩa mềm (Format)</title>
+<para id="id9835269">Định dạng là gi? Là đưa ra khuôn dạng tổ chức
+của thông tin để lưu trữ, in ra hoặc cho hiển thị trên đĩa (mềm,
+hoặc cứng). Khuôn dạng các đĩa mềm và các đĩa cứng là hình mẫu các
+rãnh từ do một trình tiện ích định dạng xếp đặt trên đĩa.</para>
+<para id="id6066260">Trước kia, khi mua một đĩa mềm mới, ta thường
+phải định dạng (format) nó rồi mới dùng được. Ngày nay, nhà sản
+xuất đã định dạng đĩa mềm trước khi đưa ra thị trường. Tuy nhiên,
+trong những trường hợp như: đĩa bị hỏng các rãnh (trace) hay các
+cung từ (sector) bị lỗi ta vẫn cần phải định dạng lại đĩa, đôi khi
+là ta muốn đĩa không lây nhiễm virus sang máy. Ngay cả đối với
+trường hợp ổ đĩa cứng cũng vậy.</para>
+<para id="id9835276">Lưu ý: Khi định dạng lại ổ đĩa, mọi dữ liệu
+trên đĩa sẽ bị mất.</para>
+<para id="id9604186">Cách định dạng một đĩa mềm:</para>
+<list list-type="enumerated" id="id9604191">
+<item>Vào My Computer</item>
+<item>Chọn ổ A (nhưng không kích đúp)</item>
+<item>Bấm phải chuột, chọn Format…</item>
+</list>
+<para id="id3225658">
+<figure id="id3225661">
+<media id="idp5891424" alt=""><image src="../../media/Graphic2.png" mime-type="image/png"/></media>
+</figure>
+</para>
+<list list-type="enumerated" id="id8760207">
+<item>Trong cửa sổ Format… có nhiều thẻ để cho ta lựa chọn. Thẻ
+dung lượng (Capacity), Thẻ tập hệ thống (File system), Thẻ định vị
+cỡ đơn vị (Allocation unit size), thẻ nhãn (Volume label), thẻ lựa
+chọn định dạng (Format Options). Nói chung, trong các trường hợp
+thông thường ta lựa chọn như máy đã định sẵn, và ta chỉ cần chấp
+nhận, ấn nút Start là xong.</item>
+</list>
+<figure id="id9378123">
+<media id="idp2199792" alt=""><image src="../../media/Graphic3.png" mime-type="image/png"/></media>
+</figure>
+<para id="id9733829">Sau khi công việc hoàn tất ta sẽ được đĩa mềm
+có định dạng mới.</para>
+</section>
+<section id="id9874068">
+<title>Sử dụng các chức năng trợ giúp (Help)</title>
+<para id="id4154205">Trong bất kỳ một chương trình nào hầu như cũng
+có phần chức năng trợ giúp người dùng (Help) để ta có thể làm việc
+được với chương trình. Thông thường, các chương trình có hai chức
+năng trợ giúp chính và quan trọng: đó là trợ giúp về mặt nội dung
+(contents) và trợ giúp về mặt chỉ số (index). Khi ta gọi phần trợ
+giúp nội dung (contents: phím tắt là Alt+H. C), phần trợ giúp sẽ
+hướng dẫn ta lần lượt qua nhiều lĩnh vực:</para>
+<para id="id9727912"/>
+<para id="id7611509">
+<!--Sorry, this media type is not supported.-->
+</para>
+<para id="id7696202">Còn khi ta gọi phần trợ giúp chỉ số (Index:
+phím tắt là Alt+H. I), chương trình sẽ xuất hiện một ô nhập liệu để
+ta gõ phần ta cần tìm kiếm:</para>
+<para id="id5076753">
+<!--Sorry, this media type is not supported.-->
+</para>
+<para id="id9609614">Sử dụng Help tốt là một điều rất hữu ích vì
+mọi vấn đề được người viết chương trình đưa vào Help, ta có thể tự
+mình nghiên cứu mà không cần sự giúp đỡ của người khác cũng như
+sách vở.</para>
+</section>
+</section>
+</content>
+</document>

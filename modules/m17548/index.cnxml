@@ -1,0 +1,96 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Windows Explorer</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>9716c524-4901-44b8-a492-aff5de4c9b39</md:uuid>
+</metadata>
+  <content>
+    <para id="id7554805">WINDOWS EXPLORER</para>
+    <para id="id7554813"> </para>
+    <para id="id7554818">1. Khởi động Windows Explorer</para>
+    <para id="id7554826">Có thể được khởi động bằng nhiều cách:</para>
+    <list list-type="bulleted" id="id7554832">
+      <item>Cách 1: Nhắp nút Start, trỏ vào Programs và nhắp chọn Windows Exxplorer</item>
+      <item>Cách 2: Trên nền Desktop, nhắp nút phải vào biểu tượng My computer  để mở ra menu Object và chọn lệnh Explorer</item>
+    </list>
+    <para id="id7554854">2. Cửa sổ Windows Explorer </para>
+    <para id="id7554870">            a). Cửa sổ Windows Explorer được chia thành 2  vùng tạm gọi là vùng bên trái và vùng bên phải của cửa sổ. Ranh giới giữa hai vùng được gọi là đường cắt (Split) - Kéo mouse ở đường này để thay đổi độ rộng giữa 2 vùng.</para>
+    <list list-type="bulleted" id="id7554885">
+      <item>Vùng bên trái - All Folders - cho thấy cấu trúc thư mục của ổ đĩa cứng cùng với các tài nguyên có trong máy PC của bạn (My computer) bao gồm ổ đĩa mềm, ổ đĩa CD, các Folder hệ thống, mạng, print, Control panel, Recycle Bin</item>
+      <item>Vùng bên phải - Contents of (C:) - được thể hiện như một cửa sổ Folder thông thường và nó cũng có những chức năng tương tự như cửa sổ Folder</item>
+    </list>
+    <para id="id7554912">            b). Thể hiện cửa sổ Windows Explorer </para>
+    <para id="id7554917">Cửa sổ Windows có thể thay đổi cách thể hiện cho vùng bên phải bằng cách nhắp các biẻu tượng tương ứng trên Toolbar hoặc nhắp Menu View chọn các lệnh: </para>
+    <list list-type="bulleted" id="id7554931">
+      <item>Small Icons</item>
+      <item>Large Icons</item>
+      <item>List</item>
+      <item>Details</item>
+    </list>
+    <para id="id7500901">3. Các thao tác với File/Folder:</para>
+    <para id="id7500907">a) Đánh dấu chọn Folder và File</para>
+    <list list-type="bulleted" id="id7500912">
+      <item>Chọn một Folder hoặc một tập tin</item>
+    </list>
+    <para id="id7500922">- Nhắp chuột vào biểu tưọng hoặc tên của biểu tượng</para>
+    <para id="id7500929">- Gõ gõ ký tự đầu tiên</para>
+    <para id="id7500934">- Dùng mũi tên để di chuyển thanh sáng</para>
+    <list list-type="bulleted" id="id7500940">
+      <item> Chọn một nhóm</item>
+    </list>
+    <para id="id7500949">- Chọn rời rạc: Giữ phím Ctrl - nhắp chọn từng biểu tượng</para>
+    <para id="id7500956">- Chọn liên tiếp: nhắp biểu tượng đầu , giữ Shift chọn biểu tượng cuối</para>
+    <para id="id7500963">- Chọn tất cả: Nhắp Menu Edit chọn Select All hoặc nhấn tổ  hợp phím Ctrl +A</para>
+    <para id="id7500970">Chú ý: Dòng trạng thái sẽ hiện lên số chủ đề được chọn và tổng dung lượng của nó. Để bỏ chọn chỉ cần nhắp chuột vào một biểu tượng.</para>
+    <para id="id7500984">b) Tạo Folder mới:</para>
+    <list list-type="bulleted" id="id7500992">
+      <item>Nhắp vào Folder cha ở vùng bên trái</item>
+      <item>Vào Menu File chọn New và chọn Folder, xoá tên New folder và gõ lại tên mới và nhấn Enter (hoặc nhắp nút phải trên vùng nội dung, cho</item>
+    </list>
+    <para id="id7501019">c) Đổi tên</para>
+    <para id="id7501024">- Cách 1: Nhắp nút phải vào biểu tượng Folder ( hoặc File) để hiện ra Menu Object chọn lệnh Rename, xoá tên củ và gõ tên mới và nhấn Emter để kết thúc</para>
+    <para id="id7501038">- Cách 2: Chọn Folder và gõ F2, xóa tên cũ và đặt tên mới.</para>
+    <para id="id7501044">d) Di chuyển (Move) sao chép (Copy) Folder, File, Shortcuts</para>
+    <list list-type="bulleted" id="id7501051">
+      <item>Đánh dấu các mục cần thiết sau đó thực hiện các thao tác sau:</item>
+    </list>
+    <para id="id7501061">- Cách 1: Đặt con trỏ ở vị trí nguồn, kéo chuột bằng nuít phải từ nguồn sang đích nhả chuột ở vị trí đích, một Menu Object hiện ra và chọn lệnh Copy here ( Copy tới đây), Move here (di chuyển tới đây) hoặc Create Shortcut Here ( tạo shortcut ở đây).</para>
+    <para id="id7501075">- Cách 2: Sử dụng nút trái của chuột: Nhắp nút trái chuột</para>
+    <para id="id7501082">+ Move: Giữ phím Shift và kéo biểu tượng đã chọn từ nguồn tới đích</para>
+    <para id="id7501089">+ Copy: Giữ phím Ctrl  và kép biểu tượng đã chọn từ nguồn tới đích</para>
+    <para id="id7501096">- Cách 3: Dùng Toolbar ( hoặc Menu Edit)</para>
+    <list list-type="bulleted" id="id7501102">
+      <item>Đánh dấu các folder hay File nguồn: Thực hiện lệnh di chuyển, (sao chép): Nhắp vào biểu tượng lệnh Cut <figure id="id7501119"><media id="idm12356752" alt=""><image src="../../media/graphics1.jpg" mime-type="image/jpeg" height="42" width="52"/></media></figure> ( copy <figure id="id7501150"><media id="idm2745040" alt=""><image src="../../media/graphics2.jpg" mime-type="image/jpeg" height="43" width="51"/></media></figure> )hoặc nhắp vào Menu Edit chọn Cut (Copy)) để chuyển các mục vào bộ nhớ, sau đó chọn Folder đích nhắp vào biểu  tượng Paste <figure id="id7501184"><media id="idm2137952" alt=""><image src="../../media/graphics3.jpg" mime-type="image/jpeg" height="43" width="52"/></media></figure> ( hoặc nhắp vào Menu Edit chọn lệnh Paste) để dán các mục từ trong bộ nhớ vào Folder đích.</item>
+    </list>
+    <para id="id7501214">Chú ý: Nếu trong lệnh sao chép một mục mà Folder nguồn trùng với Folder đích thì chủ đề mới được sao chép sẽ có tên “ Copy of …” và chúng ta nên đổi tên này bằng cách gõ tên mới vào rồi ấn Enter. Nếu việc thực hiện lệnh Move, Copy, Rename là không phù hợp với yêu cầu thì ta có thể dùng lệnh Undo để bỏ qua một lệnh vừa thi hành, bằng cách nhắp vào Menu Edit chọn lệnh Undo hoặc nhăp biểu tượng lệnh Undo trên Toolbar <figure id="id7501235"><media id="idp6954160" alt=""><image src="../../media/graphics4.jpg" mime-type="image/jpeg" height="44" width="55"/></media></figure></para>
+    <para id="id7501259">e) Xoá Folder, File, Shortcut</para>
+    <list list-type="bulleted" id="id7501264">
+      <item>Chọn các mục cần xoá và thực hiện các thao tác sau:</item>
+    </list>
+    <para id="id7501275">- Cách 1: Gõ phím Delete</para>
+    <para id="id7501280">- Cách 2: Nhắp chuột phải vào mục chọn và chọn lệnh Delete</para>
+    <para id="id7501287">- Cách 3: Nhắp chuột vào Menu File chọn Delete</para>
+    <para id="id7501293">- Cách 4: Kéo các mục chọn vào biểu tượng sọt rác Recycle Bin <figure id="id7501306"><media id="idp6860944" alt=""><image src="../../media/graphics5.jpg" mime-type="image/jpeg" height="54" width="59"/></media></figure> </para>
+    <para id="id7581320">Nếu chọn Yes thì xoá, còn chọn No thì huỷ bỏ việc xoá</para>
+    <list list-type="bulleted" id="id7581326">
+      <item>Phục hồi Folder, File, Shortcut đã bị xoá trong đĩa cứng: Chọn biểu tượng Recycle Bin </item>
+    </list>
+    <para id="id7581338"> </para>
+    <para id="id7581343">Chọn Folder, File, Shortcut cần phục hồi, nhắp chuột vào Menu File chọn Restore</para>
+    <para id="id7581350">- Làm rỗng thùng rác:</para>
+    <para id="id7581356">Nhắp vào Menu File chọn Empty Recycle Bin, một hộp thoại hiện ra , nếu chọn Yes thì thùng rác sẽ là trống rỗng còn chọn No thì huỷ bỏ lệnh.</para>
+    <para id="id7581370"> </para>
+    <para id="id7581374">4 - Định dạng đĩa mềm</para>
+    <para id="id7581380">Nhắp nút phải vào biểu tượng ổ đĩa mềm và chọn lệnh Format</para>
+    <para id="id7581386">Chọn Start để tiến hành Format. </para>
+    <para id="id7581392">            - Capacity: Dung lượng đĩa mềm</para>
+    <para id="id7581397">            - Format Type: CHọn cách định dạng đĩa</para>
+    <para id="id7581403">            - Quict Bỏ qua các bước kiểm tra đĩa và chỉ thực hiện việc xoá tất cả các tập tin đã có trên đĩa mềm.</para>
+    <para id="id7581410">            - Full: Định dạng đĩa và thực hiện việc kiểm tra đẫi để cho biết số sector bị hỏng trên đĩa.</para>
+    <para id="id7581417">            - Label: Đặt tên riêng cho đĩa mềm</para>
+    <para id="id7581422">            - Display summary when finished: cho hiện ra bang r tổng kết về tình trạng của đíâu khi đã định dạng xong</para>
+    <para id="id7581429">            - Copy  system files: chép các tập tin hệ thống vào đĩa</para>
+    <figure id="id7581438">
+      <media id="idm290896" alt=""><image src="../../media/graphics6.jpg" mime-type="image/jpeg" height="368" width="356"/></media>
+    </figure>
+    <para id="id7581461">Chú ý: Không thể  sử dụng lệnh này để định dạng đĩa cứng khi đĩa đó đang chứa hệ điều hành.( Vì bản thân Windows cũng đang được lưu trữ trong đĩa cứng).</para>
+  </content>
+</document>
